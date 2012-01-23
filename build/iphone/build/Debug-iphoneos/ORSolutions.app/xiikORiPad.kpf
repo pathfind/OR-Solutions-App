@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="c4dca4a5-1d9f-7647-bc49-f64eba8097aa" kpf_version="4" name="xiikORiPad.kpf">
+<livefolder id="c4dca4a5-1d9f-7647-bc49-f64eba8097aa/1" idref="c4dca4a5-1d9f-7647-bc49-f64eba8097aa" name="1" url="file:///Users/sarb/Documents/Titanium%20Apps/XiikAnestesia/Resources/1">
+</livefolder>
+<livefolder id="c4dca4a5-1d9f-7647-bc49-f64eba8097aa/images" idref="c4dca4a5-1d9f-7647-bc49-f64eba8097aa" name="images" url="file:///Users/sarb/Documents/Titanium%20Apps/XiikAnestesia/Resources/images">
+</livefolder>
+<livefolder id="c4dca4a5-1d9f-7647-bc49-f64eba8097aa/iphone" idref="c4dca4a5-1d9f-7647-bc49-f64eba8097aa" name="iphone" url="file:///Users/sarb/Documents/Titanium%20Apps/XiikAnestesia/Resources/iphone">
+</livefolder>
+<preference-set idref="c4dca4a5-1d9f-7647-bc49-f64eba8097aa">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
